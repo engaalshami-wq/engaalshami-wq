@@ -10,16 +10,16 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=52&lines=🔒+Security+%26+Secure+Backend+Design;💻+Java+%7C+C%2B%2B+%7C+SQL;⚔️+Secure+Coding+%26+CTF+Practice)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&height=52&lines=🔒+Security+Engineer+%7C+Backend+Developer;🛡️+Building+Secure+%26+Scalable+Systems;💻+Threat+Modeling+%7C+Secure+API+Design;⚔️+Penetration+Testing+%26+Code+Review)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Track-Security%20%26%20Backend-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Secure%20APIs%20%7C%20Web%20Security-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Availability-Open%20to%20Opportunities-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Track-Security%20Engineering-4B0082?style=for-the-badge&labelColor=1a1a1a&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Specialization-Secure%20Backend%20%7C%20Web%20Security-FF6B35?style=for-the-badge&labelColor=1a1a1a&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00D9FF?style=for-the-badge&labelColor=1a1a1a&logo=handshake&logoColor=white"/>
 </p>
 
 ---
@@ -48,6 +48,66 @@
 <br/><strong>HTML</strong>
 </a>
 </td>
+<td align="center" width="120">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" width="52" height="52" alt="JavaScript"/>
+<br/><strong>JavaScript</strong>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" width="52" height="52" alt="SQL"/>
+<br/><strong>MS SQL Server</strong>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://ubuntu.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ubuntu" width="52" height="52" alt="Ubuntu"/>
+<br/><strong>Ubuntu</strong>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VSCode"/>
+<br/><strong>VS Code</strong>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://www.cursor.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="52" height="52" alt="Cursor"/>
+<br/><strong>Cursor AI</strong>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<a href="https://www.wireshark.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" width="52" height="52" alt="Wireshark"/>
+<br/><strong>Wireshark</strong>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://portswigger.net/burp" target="_blank">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="52" height="52" alt="Burp Suite" style="filter: invert(1);"/>
+<br/><strong>Burp Suite</strong>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://app.diagrams.net/" target="_blank">
+<img src="https://skillicons.dev/icons?i=figma" width="52" height="52" alt="draw.io"/>
+<br/><strong>draw.io</strong>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git"/>
+<br/><strong>Git</strong>
+</a>
+</td>
+</tr>
+</table>
 <td align="center" width="120">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://skillicons.dev/icons?i=js" width="52" height="52" alt="JavaScript"/>
