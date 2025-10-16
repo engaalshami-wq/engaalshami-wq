@@ -1,18 +1,27 @@
+
 <div align="center">
 
 # ✨ السلام عليكم ورحمة الله وبركاته ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Elshamy&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=white" alt="header"/>
-
-<h2>🛡️ Security RED Team Learner | 3rd Year CS Student @ BFCAI 🇪🇬</h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🛡️+CyberSecurity+%26+Penetration+Testing+Enthusiast;💻+Full-Stack+%26+Backend+Development;🔐+Offensive+Security+%26+Ethical+Hacking;🚀+Always+Learning%2C+Always+Growing;⚔️+Competitive+Programmer)](https://git.io/typing-svg)
-
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" alt="Cybersecurity animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Ahmed%20Elshamy&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" alt="header"/>
 
 </div>
 
+<h2 align="center">🛡️ Security RED Team Learner | 3rd Year CS Student @ BFCAI 🇪🇬</h2>
+
+<div align="center">
+  
+
+
+<!---<img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" width="400" alt="Cybersecurity hacking animation"/>--->
+
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" alt="Cybersecurity animation"/>
+</div>
+
 ---
+
+
+
 
 ## 👨‍💻 About Me
 
@@ -140,10 +149,6 @@
 </a>
 <a href="https://x.com/El_shamy_">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://github.com/AK-Elshamy">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
@@ -152,9 +157,16 @@
 <div align="center">
 
 ### 🕌 Quranic Verse
-<img src="https://readme-typing-svg.herokuapp.com?font=Amiri&size=18&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=900&height=60&lines=وَقُل+رَّبِّ+أَدْخِلْنِي+مُدْخَلَ+صِدْقٍ+وَأَخْرِجْنِي+مُخْرَجَ+صِدْقٍ;وَاجْعَل+لِّي+مِن+لَّدُنكَ+سُلْطَانًا+نَّصِيرًا"/>
+
+<div align="center" style="background: #0D1117; padding: 20px; border-radius: 15px; max-width: 900px;">
+  <p style="font-family: 'Amiri', serif; font-size: 20px; color: #36BCF7; line-height: 1.6; text-align: center;">
+    وَقُل رَّبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ<br/>
+    وَاجْعَل لِّي مِن لَّدُنكَ سُلْطَانًا نَّصِيرًا
+  </p>
+</div>
 
 ---
+
 
 ### 💭 Daily Motivation
 
@@ -166,6 +178,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Elshamy&color=blue&style=flat)
 
-**⭐ From [AK-Elshamy](https://github.com/AK-Elshamy) with ❤️**
+
 
 </div>
