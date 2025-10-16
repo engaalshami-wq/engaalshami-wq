@@ -20,34 +20,26 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320"/>
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
 
-```ascii
-🛡️ Security RED Team Member
-   └─ Offensive Security & Penetration Testing
-   └─ Vulnerability Assessment & Ethical Hacking
-   └─ Security Best Practices & Defense Mechanisms
-```
+### 🛡️ Security RED Team Member
+> **Offensive Security Specialist** | Focused on penetration testing, vulnerability assessment, and ethical hacking. Always exploring new attack vectors and defense mechanisms to stay ahead in the cybersecurity landscape.
 
-```ascii
-💻 Full-Stack Developer
-   └─ Backend: Java, C++, SQL Server
-   └─ Frontend: JavaScript, HTML, CSS
-   └─ Tools: Git, Linux, VSCode, Cursor IDE
-```
+### 💻 Full-Stack Developer
+> **Backend Enthusiast** | Building robust solutions with **Java**, **C++**, and **SQL Server**. Strong foundation in **JavaScript**, **HTML**, and **CSS** for complete full-stack capabilities.
 
-```ascii
-🎯 Current Focus
-   └─ Building robust backend solutions
-   └─ Exploring security vulnerabilities
-   └─ Mastering DSA & Algorithms
-   └─ Competitive Programming
-```
+### 🎯 Current Journey
+> 🔐 **Mastering** Data Structures & Algorithms  
+> ⚔️ **Competing** on LeetCode and Codeforces  
+> 🚀 **Building** secure and scalable backend systems  
+> 🌱 **Learning** advanced penetration testing techniques  
+> 💡 **Exploring** AI-powered development tools
 
-🔐 **Passionate** about cybersecurity and secure coding practices  
-🚀 **Driven** by continuous learning and self-improvement  
-⚔️ **Active** on LeetCode and Codeforces, sharpening problem-solving skills  
-🌱 **Growing** as a developer and security professional every day
+### ⚡ Quick Facts
+- 🔥 **Passion:** Cybersecurity & Secure Coding
+- 🎓 **Education:** 3rd Year CS @ BFCAI
+- 💪 **Philosophy:** Consistency is the key to mastery
+- 🌍 **Location:** Egypt 🇪🇬
 
 <br clear="right"/>
 
