@@ -135,6 +135,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AK-Elshamy&color=blue&style=flat&label=Profile+Views&count=600)
+![Profile Views](https://komarev.com/ghpvc/?username=AK-Elshamy&color=blue&style=flat&label=Profile+Views&count=6000)
 
 </div>
