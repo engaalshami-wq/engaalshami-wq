@@ -76,7 +76,6 @@
 </td>
 <td align="center" width="120">
 <a href="https://app.diagrams.net/" target="_blank">
-<!-- Draw.io cover / more professional banner -->
 <img src="https://img.icons8.com/color/96/000000/diagram.png" width="52" height="52" alt="draw.io"/>
 <br/><strong>draw.io (Diagrams)</strong>
 </a>
@@ -97,7 +96,6 @@
 </td>
 <td align="center" width="120">
 <a href="https://portswigger.net/burp" target="_blank">
-<!-- Burp Suite doesn't have permissive icons in some sets; use a badge instead -->
 <img src="https://img.shields.io/badge/Burp--Suite-%23F37B20?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 <br/><strong>Burp Suite</strong>
 </a>
@@ -125,11 +123,10 @@
 ## 📊 GitHub Languages & Activity
 
 <p align="center">
-  <!-- Languages are detected from public repos (Top languages). Replace `Ahmed-Elshamy` with your GitHub username if different. -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elshamy&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Elshamy&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-> ملاحظة: الصورة أعلاه تعرض اللغات الأكثر استخدامًا في الريبو العامة عند GitHub (Top languages). لو اسم المستخدم مختلف، غيّر `username` في رابط الصورة.
+> ملاحظة: الصورة أعلاه تعرض اللغات الأكثر استخدامًا في الريبو العامة عند GitHub (Top languages).
 
 ---
 
@@ -173,6 +170,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Elshamy&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=AK-Elshamy&color=blue&style=flat)
 
 </div>
