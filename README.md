@@ -20,26 +20,8 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
-
-### 🛡️ Security RED Team Member
-> **Offensive Security Specialist** | Focused on penetration testing, vulnerability assessment, and ethical hacking. Always exploring new attack vectors and defense mechanisms to stay ahead in the cybersecurity landscape.
-
-### 💻 Full-Stack Developer
-> **Backend Enthusiast** | Building robust solutions with **Java**, **C++**, and **SQL Server**. Strong foundation in **JavaScript**, **HTML**, and **CSS** for complete full-stack capabilities.
-
-### 🎯 Current Journey
-> 🔐 **Mastering** Data Structures & Algorithms  
-> ⚔️ **Competing** on LeetCode and Codeforces  
-> 🚀 **Building** secure and scalable backend systems  
-> 🌱 **Learning** advanced penetration testing techniques  
-> 💡 **Exploring** AI-powered development tools
-
-### ⚡ Quick Facts
-- 🔥 **Passion:** Cybersecurity & Secure Coding
-- 🎓 **Education:** 3rd Year CS @ BFCAI
-- 💪 **Philosophy:** Consistency is the key to mastery
-- 🌍 **Location:** Egypt 🇪🇬
+🛡️ Security RED Team Learner | 3rd Year CS Student  
+💻 Passionate about CyberSecurity, coding, and learning new technologies
 
 <br clear="right"/>
 
