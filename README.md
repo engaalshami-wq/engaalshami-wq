@@ -20,8 +20,13 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
+
 🛡️ Security RED Team Learner | 3rd Year CS Student  
-💻 Passionate about CyberSecurity, coding, and learning new technologies
+💻 Passionate about CyberSecurity, coding, and learning new technologies  
+🔐 Focused on Offensive Security & Penetration Testing  
+🚀 Always learning, always growing  
+⚔️ Competitive Programmer
 
 <br clear="right"/>
 
@@ -105,10 +110,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Elshamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="450"/>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AK-Elshamy&color=red&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -166,7 +167,9 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="footer"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Elshamy&color=blue&style=flat)
 
 **⭐ From [AK-Elshamy](https://github.com/AK-Elshamy) with ❤️**
 
