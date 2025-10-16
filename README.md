@@ -9,10 +9,18 @@
 <h2 align="center">🛡️ Security-Focused Backend Developer from Egypt 🇪🇬</h2>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=🔒+Aspiring+Cyber+Security+Engineer;💻+Backend+Developer+(Java%2C+SQL%2C+HTML%2FJS);⚔️+Problem+Solver+%26+CTF+Learner;🚀+Learning+Network+%26+System+Security)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=🔒+Aspiring+Cyber+Security+Engineer;💻+Backend+Developer+(Java%2C+SQL%2C+HTML%2FJS);⚔️+Problem+Solver+%26+CTF+Learner;🚀+Learning+Network%2C+System+%26+Web+Security)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Security%20%26%20Backend-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Network%2B%20%7C%20SQL%20Injection-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tools-VS%20Code%20%7C%20Wireshark%20%7C%20Burp%20Suite-green?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -92,6 +100,16 @@
 
 ---
 
+## 🧰 Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,docker,windows,linux" height="50"/>
+  <img src="https://img.icons8.com/color/96/wireshark.png" height="50" alt="Wireshark"/>
+  <img src="https://img.icons8.com/color/96/burp-suite.png" height="50" alt="Burp Suite"/>
+</p>
+
+---
+
 ## 🏆 Programming & Problem Solving
 
 <div align="center">
@@ -104,6 +122,32 @@
 </a>
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elshamy&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elshamy&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🚧 Featured Projects
+
+- 🔐 [**Security Terms Repo**](https://github.com/AK-Elshamy/SecurityTerms) — Glossary of essential Cyber Security concepts.
+- 💻 [**Dynamic Array (Vector)**](https://github.com/AK-Elshamy/Dynamic-Array) — Implementation of dynamic arrays in Java & C++.
+- 🧮 [**1000 Problems Challenge**](https://github.com/AK-Elshamy/1000-Problems-Daily-Challenge) — My journey to strengthen problem-solving.
+
+---
+
+## 📘 Currently Learning
+
+- 📚 **Network+** (By Dr. Ibrahim Gomaa)
+- 🧩 **CCNA Basics** – Network Representations & Topologies
+- 🔐 **Web Security Fundamentals** – SQL Injection, XSS, Authentication
+- 🧠 **Java Backend** – Building Secure APIs
 
 ---
 
