@@ -2,7 +2,7 @@
 
 # ✨ السلام عليكم ورحمة الله وبركاته ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Elshamy&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=white" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Ahmed%20Elshamy&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" alt="header"/>
 
 </div>
 
@@ -10,9 +10,9 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🛡️+CyberSecurity+%26+Penetration+Testing+Enthusiast;💻+Full-Stack+%26+Backend+Development;🔐+Offensive+Security+%26+Ethical+Hacking;🚀+Always+Learning%2C+Always+Growing;⚔️+Competitive+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🛡️+Diving+Deep+into+CyberSecurity+%26+Penetration+Testing;💻+Crafting+Robust+Full-Stack+%26+Backend+Solutions;🔐+Mastering+Offensive+Security+with+Ethical+Hacking+Tools;🚀+Fueling+Innovation+Through+Continuous+Learning;⚔️+Conquering+Challenges+as+a+Competitive+Programmer;🌐+Building+a+Secure+Digital+Future+One+Line+at+a+Time)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" alt="Cybersecurity animation"/>
+<img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" width="400" alt="Cybersecurity hacking animation"/>
 
 </div>
 
@@ -20,13 +20,13 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
+<img align="right" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="350" alt="Hacker at work"/>
 
-🛡️ Security RED Team Learner | 3rd Year CS Student  
-💻 Passionate about CyberSecurity, coding, and learning new technologies  
-🔐 Focused on Offensive Security & Penetration Testing  
-🚀 Always learning, always growing  
-⚔️ Competitive Programmer
+🛡️ As a Security RED Team Learner and 3rd Year CS Student, I'm on an exciting journey through the world of CyberSecurity.  
+💻 My passion lies in exploring offensive security techniques while maintaining the highest ethical standards.  
+🔐 From penetration testing to secure coding, I'm dedicated to understanding how to break systems to make them unbreakable.  
+🚀 Constantly evolving my skills in programming and tech, one vulnerability at a time.  
+⚔️ When not hunting bugs, you'll find me solving complex problems in competitive programming arenas.
 
 <br clear="right"/>
 
@@ -108,7 +108,11 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=AK-Elshamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" alt="GitHub Stats" width="450"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Elshamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="450"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-Elshamy&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="450"/>
 
 </div>
 
@@ -127,7 +131,7 @@
 
 <br/><br/>
 
-**📈 Sharpening problem-solving skills through consistent practice**
+**📈 Honing my algorithmic prowess through daily challenges and contests – turning complex problems into elegant solutions**
 
 </div>
 
@@ -137,16 +141,16 @@
 
 <div align="center">
 
-<a href="mailto:ahmed.khalid.elshamy37@gmail.com">
+<a href="mailto:ahmed.khalid.elshamy37@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/a-elshamy">
+<a href="https://www.linkedin.com/in/a-elshamy" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://x.com/El_shamy_">
+<a href="https://x.com/El_shamy_" target="_blank">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
 </a>
-<a href="https://github.com/AK-Elshamy">
+<a href="https://github.com/AK-Elshamy" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -156,21 +160,21 @@
 
 <div align="center">
 
-### 🕌 
+### 🕌 Quranic Inspiration
 <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&size=18&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=900&height=60&lines=وَقُل+رَّبِّ+أَدْخِلْنِي+مُدْخَلَ+صِدْقٍ+وَأَخْرِجْنِي+مُخْرَجَ+صِدْقٍ;وَاجْعَل+لِّي+مِن+لَّدُنكَ+سُلْطَانًا+نَّصِيرًا" alt="Quranic Verse"/>
 
 ---
 
 ### 💭 Daily Motivation
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Consistency+is+the+key+to+mastery+🔑;Keep+learning%2C+keep+growing+🌱;Success+comes+from+persistent+effort+💪;Every+expert+was+once+a+beginner+🚀" alt="Motivational quotes"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=In+the+world+of+cybersecurity%2C+curiosity+is+your+best+tool+🛠️;Every+vulnerability+discovered+is+a+step+towards+a+safer+world+🔒;Code+with+purpose%2C+hack+with+ethics+⚖️;From+novice+to+ninja%3A+the+journey+never+ends+🥷" alt="Motivational quotes"/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=footer" alt="footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Elshamy&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=AK-Elshamy&color=blue&style=flat)
 
-**⭐ From [AK-Elshamy](https://github.com/AK-Elshamy) with ❤️**
+**⭐ Crafted by [AK-Elshamy](https://github.com/AK-Elshamy) with ❤️ – Enhanced with Grok's Creative Touch 🚀**
 
 </div>
