@@ -1,57 +1,149 @@
 <div align="center">
 
-# ✨ Welcome to My GitHub Profile ✨
+# ✨ السلام عليكم ورحمة الله وبركاته ✨
 
-<p>🛡️ CyberSecurity Learner | 3rd Year CS Student @ BFCAI</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Ahmed%20Elshamy&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=white" alt="header"/>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Cybersecurity learning gif">
+</div>
 
----
+<h2 align="center">🛡️ CyberSecurity Learner | 3rd Year CS @ BFCAI 🇪🇬</h2>
 
-### 👨‍💻 About Me
-<p>
-  I'm a computer science student on a journey into the world of CyberSecurity. <br />
-  Passionate about coding, continuous learning, and exploring new technologies.
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=🔐+Exploring+CyberSecurity+%26+Ethical+Hacking;💻+Learning+Backend+Development;⚔️+Problem+Solving+Enthusiast;🎯+Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
----
-
-### 🛠️ Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="TSQL"/>
-  <br>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Cursor-171717?style=for-the-badge" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=drawdotio&logoColor=white" alt="draw.io"/>
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 💡 About Me
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Elshamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Profile%20Views-600%2B-blue?style=flat-square" alt="Profile Views"/>
-</p>
+Just a learner on the path of CyberSecurity, exploring and practicing daily. Passionate about coding, solving problems, and continuously improving my technical skills.
 
+- 🔭 Currently learning **CyberSecurity fundamentals** and **penetration testing**
+- 🌱 Building skills in **Data Structures & Algorithms**
+- 💻 Developing backend solutions with **Java & C++**
+- 🎯 Goal: Becoming proficient in security operations and development
+- ⚡ Turning curiosity into code, one challenge at a time ☕
+
+<br clear="right"/>
 
 ---
 
-### 🔗 Find Me Online
-<p>
-  <a href="#" target="_blank">Portfolio</a> | 
-  <a href="https://www.linkedin.com/in/a-elshamy" target="_blank">LinkedIn</a> | 
-  <a href="https://codeforces.com/profile/El-Shamy" target="_blank">Codeforces</a>
-</p>
+## 🛠️ Tools & Technologies
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+<br/><strong>Java</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+<br/><strong>C++</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
+<br/><strong>JavaScript</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
+<br/><strong>HTML</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+<br/><strong>Git</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode"/>
+<br/><strong>VSCode</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+<br/><strong>Ubuntu</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+<br/><strong>GitHub</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
+<br/><strong>SQL Server</strong>
+</td>
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/48/000000/console.png" alt="AI Agents"/>
+<br/><strong>AI Agents</strong>
+</td>
+</tr>
+</table>
+
+**Additional Tools:** Cursor IDE, TSQL, draw.io
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Elshamy&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/El_shamy/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" alt="LeetCode Profile"/>
+</a>
+<a href="https://codeforces.com/profile/El-Shamy" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile"/>
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ahmed.khalid.elshamy37@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/a-elshamy" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/El_shamy_" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🕌 
+<img src="https://readme-typing-svg.herokuapp.com?font=Amiri&size=16&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=وَقُل+رَّبِّ+أَدْخِلْنِي+مُدْخَلَ+صِدْقٍ+وَأَخْرِجْنِي+مُخْرَجَ+صِدْقٍ;وَاجْعَل+لِّي+مِن+لَّدُنكَ+سُلْطَانًا+نَّصِيرًا" alt="Quranic Verse"/>
+
+---
+
+### 💭 
+*"Consistency is the key to mastery. Keep learning, keep growing!"* 🌱
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="footer"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AK-Elshamy&color=blue&style=flat)
 
 </div>
