@@ -6,137 +6,116 @@
 
 </div>
 
-<h2 align="center">🛡️ Security-Focused Backend Developer from Egypt 🇪🇬</h2>
+<h2 align="center">🔐 Cybersecurity Enthusiast & Security Researcher from Egypt 🇪🇬</h2>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=52&lines=🔒+Security+%26+Secure+Backend+Design;💻+Java+%7C+C%2B%2B+%7C+SQL;⚔️+Secure+Coding+%26+CTF+Practice)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=🔐+Cybersecurity+Specialist;🛡️+Penetration+Testing+%26+Security+Research;🔍+Vulnerability+Assessment+Expert;🚨+Passionate+About+Ethical+Hacking;🎯+Securing+Digital+Infrastructure)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Track-Security%20%26%20Backend-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Secure%20APIs%20%7C%20Web%20Security-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Availability-Open%20to%20Opportunities-green?style=for-the-badge"/>
-</p>
-
----
-
-## 🛠️ Tech Stack & Tools
+## 🛡️ Security Arsenal
 
 <div align="center">
+
+### 🔧 Core Technologies
 
 <table>
 <tr>
 <td align="center" width="120">
-<a href="https://www.oracle.com/java/" target="_blank">
-<img src="https://skillicons.dev/icons?i=java" width="52" height="52" alt="Java"/>
-<br/><strong>Java</strong>
-</a>
+<img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux"/>
+<br/><strong>Linux</strong>
 </td>
 <td align="center" width="120">
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cpp" width="52" height="52" alt="C++"/>
-<br/><strong>C++</strong>
-</a>
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+<br/><strong>Python</strong>
 </td>
 <td align="center" width="120">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" width="52" height="52" alt="HTML"/>
-<br/><strong>HTML</strong>
-</a>
+<img src="https://skillicons.dev/icons?i=bash" width="50" height="50" alt="Bash"/>
+<br/><strong>Bash</strong>
 </td>
 <td align="center" width="120">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=js" width="52" height="52" alt="JavaScript"/>
-<br/><strong>JavaScript</strong>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
-<img src="https://img.icons8.com/fluency/48/microsoft-sql-server.png" width="52" height="52" alt="MSSQL"/>
-<br/><strong>MS SQL Server</strong>
-</a>
-</td>
-<td align="center" width="120">
-<a href="https://ubuntu.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=ubuntu" width="52" height="52" alt="Ubuntu"/>
-<br/><strong>Ubuntu (Linux)</strong>
-</a>
-</td>
-<td align="center" width="120">
-<a href="https://www.cursor.com/" target="_blank">
-<img src="https://img.icons8.com/ios-filled/50/000000/cursor.png" width="52" height="52" alt="Cursor"/>
-<br/><strong>Cursor</strong>
-</a>
-</td>
-<td align="center" width="120">
-<a href="https://app.diagrams.net/" target="_blank">
-<img src="https://img.icons8.com/color/96/000000/diagram.png" width="52" height="52" alt="draw.io"/>
-<br/><strong>draw.io (Diagrams)</strong>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VSCode"/>
-<br/><strong>VS Code</strong>
-</a>
-</td>
-<td align="center" width="120">
-<a href="https://www.wireshark.org/" target="_blank">
-<img src="https://img.icons8.com/color/96/000000/wireshark.png" width="52" height="52" alt="Wireshark"/>
-<br/><strong>Wireshark</strong>
-</a>
-</td>
-<td align="center" width="120">
-<a href="https://portswigger.net/burp" target="_blank">
-<img src="https://img.shields.io/badge/Burp--Suite-%23F37B20?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-<br/><strong>Burp Suite</strong>
-</a>
-</td>
-<td align="center" width="120">
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
 <br/><strong>Git</strong>
-</a>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
+<br/><strong>Docker</strong>
 </td>
 </tr>
 </table>
+
+### 🎯 Security Domains
+
+```
+🔍 Penetration Testing    🌐 Web Application Security    📱 Mobile Security
+🛡️ Network Security       🔐 Cryptography                💻 Malware Analysis
+🚨 Incident Response      📊 Security Auditing           ⚠️ Vulnerability Research
+```
 
 </div>
 
 ---
 
-## 🔎 About This Profile
+## 💡 About Me
 
-- 🔐 هذا البروفايل مُركز على **Security + Backend** — تصميم واجهات آمنة، تحليل ثغرات ويب، وإنشاء APIs مقاومة للهجمات.  
-- 🧭 كل اللغات المعروضة في قسم "GitHub Languages" تُستخرج تلقائيًا من الريبو العامة الخاصة بي على GitHub (Top languages).  
+<img align="right" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="280"/>
 
----
+- 🔭 Passionate about **cybersecurity** and **ethical hacking**
+- 🛡️ Specializing in **penetration testing** and **vulnerability assessment**
+- 🌱 Currently mastering **OSCP** and advanced exploitation techniques
+- 🎯 Goal: Becoming a certified security professional (OSCP, CEH, PNPT)
+- 💪 Active on **HackTheBox**, **TryHackMe**, and **CTF challenges**
+- ⚡ Turning vulnerabilities into patches, one exploit at a time 🔒
 
-## 📊 GitHub Languages & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Elshamy&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-> ملاحظة: الصورة أعلاه تعرض اللغات الأكثر استخدامًا في الريبو العامة عند GitHub (Top languages).
+<br clear="right"/>
 
 ---
 
-## 🔎 Quick Highlights (Short & Professional)
+## 🏆 Cybersecurity Platforms
 
-- ✅ Secure API design (authentication, authorization patterns)  
-- ✅ Practical experience on Linux (Ubuntu) and MS SQL Server environments  
-- ✅ Packet analysis & traffic inspection with Wireshark  
-- ✅ Web security testing workflows (Burp Suite + manual testing)  
-- ✅ Document system architecture and threat-model using draw.io
+<div align="center">
+
+<a href="https://tryhackme.com/p/YourUsername" target="_blank">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+</a>
+
+<a href="https://app.hackthebox.com/profile/YourID" target="_blank">
+<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"/>
+</a>
+
+<a href="https://ctftime.org/team/YourTeamID" target="_blank">
+<img src="https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTFtime"/>
+</a>
+
+<a href="https://leetcode.com/El_shamy/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" alt="LeetCode"/>
+</a>
+
+</div>
+
+---
+
+## 📚 Current Learning Path
+
+<div align="center">
+
+```yaml
+🎓 Certifications in Progress:
+  - OSCP (Offensive Security Certified Professional)
+  - CEH (Certified Ethical Hacker)
+  - PNPT (Practical Network Penetration Tester)
+
+🔬 Research Areas:
+  - Advanced Web Application Exploitation
+  - Active Directory Penetration Testing
+  - Binary Exploitation & Reverse Engineering
+  - Cloud Security (AWS, Azure)
+```
+
+</div>
 
 ---
 
@@ -147,12 +126,29 @@
 <a href="mailto:ahmed.khalid.elshamy37@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
 <a href="https://www.linkedin.com/in/a-elshamy">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="https://x.com/El_shamy_">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
 </a>
+
+<a href="https://github.com/Ahmed-Elshamy">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elshamy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Elshamy&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 
 </div>
 
@@ -161,15 +157,21 @@
 <div align="center">
 
 ### 🕌 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&size=16&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=وَقُل+رَّبِّ+أَدْخِلْنِي+مُدْخَلَ+صِدْقٍ+وَأَخْرِجْنِي+مُخْرَجَ+صِدْقٍ;وَاجْعَل+لِّي+مِن+لَّدُنكَ+سُلْطَانًا+نَّصِيرًا" alt="Quranic Verse"/>
 
 ---
 
 ### 💭 
-*"Security is not a product, it's a mindset — build it in, don’t bolt it on."* 🔐
+
+*"In cybersecurity, the only constant is change. Stay curious, stay secure!"* 🔐
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AK-Elshamy&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Elshamy&color=blue&style=flat)
+
+**⚠️ Ethical Hacking Only | All Activities are Legal & Authorized ⚠️**
 
 </div>
